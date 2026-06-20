@@ -1269,15 +1269,15 @@
         },
         {
             "seedType": 993,
-            "name": "Mesmer Cattail (aquatic)",
-            "introduce": "<align=left><size=36><color=black>Many plants ask how does she get her beutiful colours. What many do not know is that she is actually stuck in her magical girl transformation.</color>",
+            "name": "Mesmer Cattail (Aquatic)",
+            "introduce": "<align=left><size=36><color=black>Many plants ask how does she get her beautiful colours. What many do not know is that she is actually stuck in her magical girl transformation.</color>",
             "info": "Fires globally tracking magic projectiles and can use radiant magic to charm enemies.\n\n<color=blue>Plant Girls vs Zombies Collab Plant</color>\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=red>300×2/1.5s</color>\n<color=black>Special: <color=#8B0000>\n<color=black>•</color> Global targeting, prioritizes flying enemies.\n<color=black>•</color> Manual activation: select a tile in its row to hypnotize all zombies within 1-tile radius; can target flying units. After use, enters 50s cooldown. Each regular shot additionally reduces cooldown by 1s.\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Ability CD Halved, Ability radius +0.5 tiles\n2. Hypnotized zombies spawned by her ability deal an additional 30% true damage that ignores damage reduction when biting</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Hypno-shroom > Cattail Girl</color>"
         },
         {
             "seedType": 994,
-            "name": "Mesmer Cattail (land)",
-            "introduce": "<align=left><size=36><color=black>Many plants ask how does she get her beutiful colours. What many do not know is that she is actually stuck in her magical girl transformation.</color>",
+            "name": "Mesmer Cattail (Land)",
+            "introduce": "<align=left><size=36><color=black>Many plants ask how does she get her beautiful colours. What many do not know is that she is actually stuck in her magical girl transformation.</color>",
             "info": "Fires globally tracking magic projectiles and can use radiant magic to charm enemies.\n\n<color=blue>Plant Girls vs Zombies Collab Plant</color>\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=red>300×2/1.5s</color>\n<color=black>Special: <color=#8B0000>\n<color=black>•</color> Subspecies of Mesmer Cattail (aquatic).\n<color=black>•</color> Global targeting, prioritizes flying enemies.\n<color=black>•</color> Manual activation: select a tile in its row to hypnotize all zombies within 1-tile radius; can target flying units. After use, enters 50s cooldown. Each regular shot additionally reduces cooldown by 1s.\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Ability CD Halved, Ability radius +0.5 tiles\n2. Hypnotized zombies spawned by her ability deal an additional 30% true damage that ignores damage reduction when biting</color>",
             "cost": "\n<size=36>Conversion Recipe: <color=#8B0000>Shovel <-> Shovel</color>"
         },
